@@ -1,4 +1,4 @@
-# React JWT Auth Template
+# hoot-front-end
 
 ## About
 
